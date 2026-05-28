@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Maria Gabriella ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Web-Full+Developer;UI%2FUX+Designer;React+%26+JavaScript+Student;Criando+interfaces+modernas;Apaixonada+por+tecnologia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Web+Full+Developer;UI%2FUX+Designer;React+%26+JavaScript+Student;Criando+interfaces+modernas;Apaixonada+por+tecnologia" />
 
 </div>
 
