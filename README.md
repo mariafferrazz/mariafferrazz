@@ -46,16 +46,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariafferrazz&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafferrazz&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariafferrazz&theme=tokyonight" />
 
 </div>
