@@ -42,13 +42,11 @@
 
 ---
 
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariafferrazz&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariafferrazz&theme=rose_pine" />
 
 </div>
-
 
 ## 🔥 GitHub Streak
 
