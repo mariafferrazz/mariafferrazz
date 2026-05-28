@@ -44,27 +44,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mariafferrazz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
+<div align="center">
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafferrazz&layout=compact&langs_count=7&theme=tokyonight"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariafferrazz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafferrazz&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" />
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mariafferrazz&theme=tokyonight"
-  />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mariafferrazz&theme=rose-pine&hide_border=true&background=00000000" />
+
+</div>
 
 ---
 
