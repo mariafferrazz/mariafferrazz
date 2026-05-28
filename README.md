@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariafferrazz&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariafferrazz&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafferrazz&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafferrazz&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
