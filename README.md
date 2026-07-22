@@ -1,130 +1,61 @@
-<div align="center">
+# Maria Gabriella Ferraz
 
-# Olá, eu sou a Maria Gabriella ✨
+**Desenvolvedora Web Full Stack | React, Node.js e bancos de dados SQL**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Web+Full+Developer;UI%2FUX+Designer;React+%26+JavaScript+Student;Criando+interfaces+modernas;Apaixonada+por+tecnologia" />
+Sou desenvolvedora web e ingressante no curso de Computação da Universidade Federal Fluminense (UFF). Gosto de transformar necessidades reais em aplicações claras, responsivas e fáceis de manter, trabalhando tanto na interface quanto na estrutura que sustenta o produto.
 
-</div>
+Atualmente, atuo como desenvolvedora bolsista no **Laboratório de Agenciamentos Cotidianos e Experiências (LACE/UFF)**. Estou construindo o portal digital do laboratório, uma aplicação full stack voltada à organização, preservação e divulgação de pesquisas, acervos audiovisuais, eventos e produções acadêmicas.
 
----
+Busco oportunidades em desenvolvimento web, especialmente com **React, JavaScript e Node.js**, nas quais eu possa contribuir com produtos úteis e continuar evoluindo em equipe.
 
-## 💫 Sobre mim
+## Trabalho atual
 
-🎓 Desenvolvedora Web Full Stack pela Digital House  
-🎨 Formação em Front-End & UI/UX Design pela Origamid  
-💻 Desenvolvendo interfaces modernas, responsivas e intuitivas  
-🗄️ Experiência com integração e manipulação de banco de dados  
-📚 Atualmente aprofundando conhecimentos em React, JavaScript e TailwindCSS  
-✨ Interesse em desenvolvimento Front-End, UX/UI e aplicações web completas
+### [LACE Portal](https://lablace.com.br)
 
----
+Portal institucional do Laboratório de Agenciamentos Cotidianos e Experiências, vinculado à UFF.
 
-## 🚀 Tecnologias & Ferramentas
+O projeto reúne um site público responsivo e uma área administrativa protegida, com diferentes perfis de acesso e fluxo editorial para revisão e publicação de conteúdo.
 
-<div align="center">
+**Principais entregas:**
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,mysql,git,github,figma,vscode" />
+- Interface pública e painel administrativo em React;
+- API REST com Node.js e Express;
+- Modelagem e persistência de dados com Prisma ORM e MySQL/MariaDB;
+- Autenticação JWT em cookies `httpOnly`;
+- Controle de acesso para coordenação, pesquisadores e estudantes;
+- Catálogos de filmes, verbetes, eventos e produções acadêmicas;
+- Rotas dinâmicas, filtros e relacionamento entre conteúdos;
+- Integração com vídeos do YouTube e Vimeo;
+- Melhorias contínuas de responsividade, segurança e desempenho.
 
-</div>
+[Ver aplicação](https://lablace.com.br) · [Ver código](https://github.com/mariafferrazz/lace-portal)
 
----
+## Outro projeto
 
-## 🛠️ Experiência
+### [Português Tem Lógica](https://github.com/mariafferrazz/portugues-tem-logica)
 
-- Desenvolvimento de aplicações responsivas
-- Criação de interfaces focadas em experiência do usuário
-- Integração com banco de dados
-- Estruturação de autenticação e login
-- Desenvolvimento de carrinho de compras
-- Consumo de APIs
-- Versionamento com Git e GitHub
-- Prototipação UI/UX no Figma
+Plataforma educacional interativa para o ensino da língua portuguesa, desenvolvida com React, Node.js, Prisma e MySQL. O projeto inclui autenticação, acompanhamento do progresso de estudos e uma experiência responsiva.
 
----
+## Tecnologias
 
-<div align="center">
+| Área | Tecnologias |
+| --- | --- |
+| Frontend | JavaScript, React, React Router, HTML, CSS, Tailwind CSS, Vite |
+| Backend | Node.js, Express, APIs REST, autenticação JWT |
+| Dados | Prisma ORM, MySQL, MariaDB |
+| Ferramentas | Git, GitHub, Figma, VS Code |
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariafferrazz&theme=rose_pine" />
+## Formação
 
-</div>
+- **Computação** - Universidade Federal Fluminense, ingresso em 2026.2;
+- **Desenvolvimento Web Full Stack** - Digital House;
+- **Front-end e UI/UX Design** - Origamid.
 
-## 🔥 GitHub Streak
+## Contato
 
-<div align="center">
+- [LinkedIn](https://www.linkedin.com/in/maria-gabriella-ferraz-6aa7b914a/)
+- [E-mail](mailto:mgfmaarques@gmail.com)
+- [LACE Portal](https://lablace.com.br)
 
-<img src="https://streak-stats.demolab.com?user=mariafferrazz&theme=rose-pine&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-# 🌸 Projetos em destaque
-
-## 🛍️ 810-enterPrise
-
-Plataforma de venda de gift cards desenvolvida com foco em usabilidade, responsividade e experiência do usuário.
-
-### Funcionalidades:
-- Sistema de login
-- Carrinho de compras
-- Integração com banco de dados
-- Layout responsivo
-- Organização de produtos e fluxo de compra
-
----
-
-## 🌿 Pachamama
-
-Projeto em desenvolvimento com foco em identidade visual, experiência do usuário e construção de interfaces modernas.
-
-### Tecnologias utilizadas:
-- React
-- TailwindCSS
-- JavaScript
-- UI/UX Design
-
----
-
-## 📚 Português Tem Lógica
-
-Projeto educacional em desenvolvimento voltado para aprendizagem e experiência intuitiva do usuário.
-
-### Objetivos:
-- Interface acessível
-- Navegação simples
-- Experiência visual agradável
-- Responsividade
-
----
-
-## 🌱 Atualmente aprendendo
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mysql" />
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/maria-gabriella-ferraz-6aa7b914a/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mgfmaarques@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F48FB1&height=120&section=footer"/>
 
 </div>
